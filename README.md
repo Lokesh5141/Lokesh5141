@@ -17,6 +17,9 @@ I'm open to collaborations and freelancing opportunities in the data science fie
 
 🧠 𝐍𝐞𝐮𝐫𝐚𝐥 𝐍𝐞𝐭𝐰𝐨𝐫𝐤𝐬 : Designing and optimizing deep learning architectures for cutting-edge applications.
 
+## 📫 𝐑𝐞𝐚𝐜𝐡 𝐨𝐮𝐭 𝐭𝐨 𝐦𝐞:
+- LinkedIn: www.linkedin.com/in/lokesh-sanaga
+- Email: lokeshsanaga@gmail.com
 
 ## Visitor's Count:
 
